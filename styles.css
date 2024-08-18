@@ -1,12 +1,34 @@
 /*  your css code here. If applicable */
 :root{
 	width:1100px;
-	background-color:;
+	background-color:gray;
 }
 .imageContainer{
 	width:2px;
 }
 .table{
 	border:1px solid black;
+	padding:10px;
+	margin-block:10px
 	
+}
+
+.fristrow{
+	width:200px;
+}
+.Last{
+	width:200px;
+}
+.Middle{
+	width:600px;
+}
+#c{
+	text-align:center;
+}
+#A{
+	text-align:center;
+}
+ul{
+	display:inline;
+	text
 }
